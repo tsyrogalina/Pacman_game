@@ -56,7 +56,7 @@ Pac-Man - это аркадная десктопная видеоигра. За�
 
 <p><img src="https://github.com/tsyrogalina/Pacman_game/blob/master/documentation/mokups/levele_difficulty.jpg"/></p>
 <p><img src="https://github.com/tsyrogalina/Pacman_game/blob/master/documentation/mokups/game-screen.jpg"/></p>
-<p><img src="https://github.com/tsyrogalina/Pacman_game/blob/master/documentation/mokups/game-screen.jpg"/></p>
+<p><img src="https://github.com/tsyrogalina/Pacman_game/blob/master/documentation/mokups/exit-dialog.jpg"/></p>
 
 
 
